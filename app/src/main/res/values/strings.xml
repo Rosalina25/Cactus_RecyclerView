@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">CactusRecycler</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string-array name="data_name">
+        <item>Kaktus mini Ariocarpus</item>
+        <item>Kaktus mini Astrophytum</item>
+        <item>Kaktus mini Cereos Tetragonus</item>
+        <item>Kaktus mini Cephalocereus senilis</item>
+        <item>Kaktus mini Echinocactus grusonii</item>
+        <item>Kaktus mini Echinofossulocactus</item>
+        <item>Kaktus mini Ferocactus</item>
+        <item>Kaktus mini Gymnocalycium</item>
+        <item>Kaktus mini Haworthia attenuata</item>
+        <item>Kaktus mini Lobivia oganmaru</item>
+        <item>Kaktus mini Mammillaria elongata</item>
+        <item>Kaktus mini Mammillaria elongata var. intertexta</item>
+        <item>Kaktus mini Melocactus</item>
+        <item>Kaktus mini Mammillaria fraileana</item>
+    </string-array>
+
+    <string-array name="data_description">
+        <item>Pada umumnya, kaktus memiliki duri pada daunnya. Namun, kaktus hias jenis Ariocarpus ini justru tidak memiliki duri sama sekali. Daun kaktus mini ini memiliki bentuk prisma. Ada yang ujungnya melengkung, tumpul, atau runcing. Bunganya berukuran besar hampir seukuran batangnya dan memiliki aneka ragam warna seperti ungu, putih, pink, kuning, dan merah. </item>
+        <item>Kaktus mini jenis Astrophytum ini bentuknya menyerupai bintang atau buah belimbing. Bunganya ada yang berwarna kuning, merah, dan pink. Bagian batangnya membentuk seperti bola. Kaktus mini jenis ini termasuk yang cukup mudah berbunga. Untuk memancing pertumbuhan bunganya, kamu bisa meletakkan kaktus hias ini di ruangan dengan suhu sekitar 40º Celcius namun tidak terlalu banyak mendapat paparan sinar matahari.</item>
+        <item>Kaktus mini berikutnya yang bisa kamu pelihara di rumah adalah kaktus mini jenis Cereus tetragonous. Kaktus mini ini berasal dari Amerika dan bisa tumbuh tinggi. Bentuknya menyerupai kastil sehingga cocok diletakkan di sekitar pagar rumah atau penghias jendela di dalam rumah.</item>
+        <item>Kaktus mini jenis Cephalocereus senilis sering juga disebut sebagai kaktus orang tua. Seluruh bagian kaktus mini ini dipenuhi rambut panjang berwarna putih, mirip seperti kakek-kakek yang ada di film kolosal. Tidak tanggung-tanggung, rambut putih tersebut bisa tumbuh hingga 12 cm. Agar kaktus yang satu ini bisa hidup dan tumbuh subur, kamu harus meletakkannya di area yang suhu udaranya sekitar 32-40º Celcius.</item>
+        <item>Kaktus mini jenis Echinocactus grusonii ini bentuknya menyerupai gentong. Kaktus yang berasal dari Meksiko dan Texas ini sering juga disebut sebagai golden barrel alias gentong emas.Alasannya adalah duri-duri di seluruh permukaan yang berwarna kuning kecokelatan membuatnya terlihat seperti gentong emas. Jenis kaktus ini adalah salah satu favorit pecinta tanaman dan harganya cukup tinggi. Jenis kaktus ini pas banget untuk rumah dengan interior skandinavia.</item>
+        <item>Kaktus mini yang satu ini terlihat unik karena batangnya yang berwarna hijau tua dikelilingi dengan duri yang cukup besar. Kaktus mini Echinofossulocactus ini termasuk kaktus yang pertumbuhannya lambat. Ia membutuhkan waktu sekitar 3 tahun untuk mengeluarkan bunga. Bunganya sendiri ada yang berwarna putih, merah, dan kuning.</item>
+        <item>Kaktus mini jenis Ferocactus ini tampilannya cukup mengerikan untuk orang awam, namun cantik di mata pecinta tanaman. Kaktus ini bentuknya bulat dengan batang berlekuk. Durinya tumbuh secara acak dan berukuran tidak kalah besar dari ukuran kaktus itu sendiri. Kaktus yang tidak memiliki bunga ini tampak menarik berkat duri merah jambunya.</item>
+        <item>Kaktus mini jenis Gymnocalycium ini memiliki bentuk yang menyerupai buah labu dengan tanduk sebagai tempat tumbuhnya bunga. Lucunya, bagian tanduk tempat bunga muncul ini tidak dipenuhi oleh duri. Bunganya bermekaran dengan indah di beberapa sisi dan warnanya sangat cerah. Buat kamu yang sedang bingung memilih tanaman hias, Gymnocalycium bisa jadi pilihan!</item>
+        <item>Kaktus mini jenis Haworthia attenuata ini sering disebut-sebut sebagai tanaman zebra sekaligus lidah buaya mini. Kaktus yang satu ini memiliki duri-duri kecil di bagian pinggir batangnya. Kaktus yang berasal dari Afrika Selatan ini mampu bertahan hidup dengan sedkit cahaya sehingga cocok dijadikan penghias coffee table di ruang keluarga atau dapur.</item>
+        <item>Kaktus mini jenis Lobivia oganmaru ini cukup aneh bentuknya jika dibandingkan dengan kaktus mini jenis lainnya. Batangnya tidak bulat atau memanjang melainkan pipih. Uniknya, di bagian ujung batang yang pipih ini ada bagian lainnya yang berwarna kuning bagaikan jambul. Kaktus yang bisa tumbuh hingga 10 cm ini cocok diletakkan di mana saja untuk menghias hunianmu, misalnya sebagai dekorasi kamar tidur.</item>
+        <item>Kaktus mini jenis Mammillaria elongata ini terdiri atas banyak batang yang seluruh permukaannya ditutupi oleh duri halus berwarna kuning. Kaktus jenis ini bisa tumbuh hingga ukuran 20 cm dan mengeluarkan bunga berwarna putih. Tapi ingat, salah satu cara merawat tanaman jenis ini adalah meletakkannya di tempat yang teduh dan sedikit terkena paparan sinar matahari agar bisa hidup dalam waktu lama.</item>
+        <item>Kaktus mini berikutnya masih satu jenis dengan Mammillaria elongata. Perbedaannya ada pada ukuran batang yang lebih besar dan permukaannya ditutupi oleh duri halus berwarna merah. Kaktus jenis ini termasuk dalam kategori kaktus yang mudah berbunga.</item>
+        <item>Kaktus mini jenis Melocactus memiliki bentuk batang yang bulat dan ditumbuhi duri berwarna putih yang berjejer rapi di setiap sisinya. Yang membuat kaktus ini unik adalah bagian atasnya yang ditumbuhi batang berbentuk pipih dengan warna cerah, seperti memakai mahkota atau topi.</item>
+        <item>Kaktus mini jenis Mammillaria fraileana ini bisa dibilang cukup meriah penampilannya. Batang utamanya berbentuk bulat dan ditutupi duri panjang berwarna cokelat kemerahan. Jika bunganya sudah tumbuh, ukurannya cukup besar dan tidak hanya satu. Di sekitar batang utama akan bermunculan batang-batang kecil. </item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://i1.wp.com/dekoruma.blog/wp-content/uploads/2018/03/kaktus-mini.jpg?w=1024&amp;ssl=1</item>
+        <item>https://i2.wp.com/dekoruma.blog/wp-content/uploads/2018/02/worldofsucculents.jpg?w=750&amp;ssl=1</item>
+        <item>https://i1.wp.com/dekoruma.blog/wp-content/uploads/2018/02/worldofsucculents1.jpg?w=750&amp;ssl=1</item>
+        <item>https://i0.wp.com/dekoruma.blog/wp-content/uploads/2018/02/138ff2b8e12ecb1c818e609802d53e89.jpg?w=750&amp;ssl=1</item>
+        <item>https://i1.wp.com/dekoruma.blog/wp-content/uploads/2018/02/houzz-4.jpg?w=750&amp;ssl=1</item>
+        <item>https://i2.wp.com/dekoruma.blog/wp-content/uploads/2018/02/kakteensammlung-holzheu-dot-net.jpg?w=750&amp;ssl=1</item>
+        <item>https://i2.wp.com/dekoruma.blog/wp-content/uploads/2018/02/worldofsucculents2.jpg?w=750&amp;ssl=1</item>
+        <item>https://i1.wp.com/dekoruma.blog/wp-content/uploads/2018/02/worldofsucculents3.jpg?w=750&amp;ssl=1</item>
+        <item>https://i0.wp.com/dekoruma.blog/wp-content/uploads/2018/02/wikimedia.jpg?w=750&amp;ssl=1</item>
+        <item>https://i1.wp.com/dekoruma.blog/wp-content/uploads/2018/03/Kaktus-mini-Lobivia-oganmaru-2595140110-1521680440348.jpg?w=768&amp;ssl=1</item>
+        <item>https://i2.wp.com/dekoruma.blog/wp-content/uploads/2018/02/biopix.jpg?w=750&amp;ssl=1</item>
+        <item>https://i0.wp.com/dekoruma.blog/wp-content/uploads/2018/02/flickr.jpg?w=750&amp;ssl=1</item>
+        <item>https://i1.wp.com/dekoruma.blog/wp-content/uploads/2018/02/worldofsucculents4.jpg?w=750&amp;ssl=1</item>
+        <item>https://i0.wp.com/dekoruma.blog/wp-content/uploads/2018/02/wikipedia.jpg?w=750&amp;ssl=1</item>
+    </string-array>
+</resources>
